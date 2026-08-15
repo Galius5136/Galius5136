@@ -16,18 +16,11 @@ I enjoy turning complex technical concepts into practical tools and exploring th
 
 ### [Databricks Spark 3.5 Certification Study System](https://github.com/Galius5136/databricks-spark-3.5-cert-prep)
 
-An agent-powered study system built around the **Databricks Certified Associate Developer for Apache Spark 3.5** curriculum.
+An agent-powered study system covering the **Apache Spark 3.5 certification curriculum**, with interconnected learning, quiz and assessment workflows.
 
-It covers:
+`Apache Spark` · `PySpark` · `Databricks` · `AI Agents`
 
-- Spark architecture
-- DataFrames & Spark SQL
-- Performance tuning
-- Structured Streaming
-- Spark Connect
-- Pandas API on Spark
-- Spark 3.5 features
-- Quizzes, mock exams and progress tracking
+⭐ **12 stars**
 
 ---
 
