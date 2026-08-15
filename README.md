@@ -1,12 +1,6 @@
-<div align="center">
-
-# Vincenzo Galia
-
-### Data Engineer · Apache Spark · AI & Research
-
-Building data systems, learning tools and contributing to open-source research.
-
-</div>
+<p align="center">
+  <img src="./github-banner.png" alt="Vincenzo Galia — Data Engineer · Apache Spark · AI & Research" width="100%" />
+</p>
 
 ---
 
