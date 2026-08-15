@@ -56,16 +56,6 @@ Contributing to **[FrontierPhysics](https://github.com/benchflow-ai/FrontierPhys
 
 ---
 
-## 🧭 Current Interests
-
-- Distributed data processing
-- AI agent evaluation
-- Scientific AI benchmarks
-- Applied machine learning
-- Open-source research
-
----
-
 <div align="center">
 
 ### Build things. Understand how they work. Contribute back.
