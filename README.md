@@ -1,63 +1,63 @@
+
 <p align="center">
-  <img src="./github-banner.png" alt="Vincenzo Galia — Data Engineer · Apache Spark · AI & Research" width="100%" />
+  <img src="./github-banner.png"
+       alt="Vincenzo Galia — Data and AI Engineer"
+       width="100%" />
 </p>
 
+<p align="center">
+  Palermo, Italy &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vincenzo-galia">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vincenzogalia02@gmail.com">Contact</a>
+</p>
+
+<br>
+
+I design and build distributed data systems, with a focus on
+performance, reliability and applied artificial intelligence.
+
+My work spans solution architecture, software engineering,
+cloud infrastructure and open-source research.
+
+## Selected impact
+
+Results from enterprise engineering projects I contributed to.
+
+| **−75%** | **−30%** | **500+ GB/day** | **−60%** |
+| :---: | :---: | :---: | :---: |
+| Production incidents | Processing costs | Data throughput | Reporting inconsistencies |
+
+## Selected work
+
+**[Databricks Spark 3.5 Study System](https://github.com/Galius5136/databricks-spark-3.5-cert-prep)**
+
+Agent-powered learning and assessment workflows covering
+Apache Spark architecture, performance tuning and distributed computing.
+
+**[BenchFlow](https://github.com/benchflow-ai/benchflow)**
+
+Open-source contributions to AI agent evaluation,
+benchmark infrastructure and research tooling.
+
+**[FrontierPhysics](https://github.com/benchflow-ai/FrontierPhysics)**
+
+Research contributions involving scientific reasoning,
+AI evaluation, trace conversion and validation tools.
+
+## Engineering stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Data platforms** | Databricks, Spark, PySpark, Delta Lake, Unity Catalog |
+| **Cloud** | AWS, S3, Redshift, Lambda, CloudWatch |
+| **Distributed systems** | Kafka, NiFi, Airflow |
+| **Artificial intelligence** | RAG, AI Agents, Embeddings, Vector Databases |
+| **Programming** | Python, SQL, Scala, C# |
+| **Engineering tools** | Docker, Git, Azure DevOps, PostgreSQL |
+
 ---
 
-## 👋 About Me
-
-I'm a **Data Engineer** interested in distributed systems, Apache Spark, applied AI and research-oriented software.
-
-I enjoy turning complex technical concepts into practical tools and exploring the intersection between **data engineering, AI systems and scientific research**.
-
----
-
-## ⚡ Featured Project
-
-### [Databricks Spark 3.5 Certification Study System](https://github.com/Galius5136/databricks-spark-3.5-cert-prep)
-
-An agent-powered study system covering the **Apache Spark 3.5 certification curriculum**, with interconnected learning, quiz and assessment workflows.
-
-`Apache Spark` · `PySpark` · `Databricks` · `AI Agents`
-
-⭐ **12 stars**
-
----
-
-## 🔬 Open Source & Research
-
-### BenchFlow
-
-Contributing to **[BenchFlow](https://github.com/benchflow-ai/benchflow)**, an open-source ecosystem for AI agent environments, evaluations and research infrastructure.
-
-`AI Agents` · `Evaluation` · `Research Infrastructure`
-
-### FrontierPhysics
-
-Contributing to **[FrontierPhysics](https://github.com/benchflow-ai/FrontierPhysics)**, a research project exploring the evaluation of advanced AI systems on frontier-level physics problems.
-
-`AI Evaluation` · `Scientific Reasoning` · `Physics`
-
----
-
-## 🛠️ Tech
-
-**Data Engineering**
-
-`Python` · `SQL` · `Apache Spark` · `PySpark` · `Databricks` · `Apache Airflow`
-
-**Cloud & Data**
-
-`AWS` · `PostgreSQL` · `PL/pgSQL`
-
-**Software & AI**
-
-`C#` · `AI Agents` · `LLM Evaluation`
-
----
-
-<div align="center">
-
-### Build things. Understand how they work. Contribute back.
-
-</div>
+<p align="center">
+  <em>Build things. Understand how they work. Contribute back.</em>
+</p>
